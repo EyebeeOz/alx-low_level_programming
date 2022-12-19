@@ -1,1 +1,1 @@
-pointer creation in C
+my read me file
